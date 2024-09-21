@@ -1,7 +1,15 @@
 # Audy-Client
 
 ## 📑 Description
-- 여행계획 최적화 지도 서비스
+여행계획 최적화 지도 서비스
+
+<img width="300" alt="타이틀" src="https://github.com/user-attachments/assets/d5f32fc1-c595-4fe1-88c5-5b304a8ff33f">
+<img width="300" alt="오버뷰" src="https://github.com/user-attachments/assets/07cef7a9-308c-4287-8cea-4006a104bd2e">
+<img width="300" alt="서비스질문" src="https://github.com/user-attachments/assets/d97db446-4132-4f8e-82a0-e41312a479e9">
+<img width="300" alt="컨텐츠" src="https://github.com/user-attachments/assets/e752a040-2cd9-4971-8e11-3b943ae0c675">
+<img width="300" alt="컨텐츠2" src="https://github.com/user-attachments/assets/838d6643-c146-4bb8-9695-1a8dac552885">
+<img width="300" alt="컨텐츠3" src="https://github.com/user-attachments/assets/71cd1aab-cd27-4b3c-89dd-2a0047ce4944">
+
 
 ## 🧱 Dependencies
 
